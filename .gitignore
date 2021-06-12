@@ -17,3 +17,6 @@
 dist
 bin
 terraform-provider-cloudca
+
+vendor
+.batect/caches/
